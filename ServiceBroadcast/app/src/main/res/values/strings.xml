@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceBroadcast</string>
+    <string name="error">Can not upload image</string>
+</resources>
